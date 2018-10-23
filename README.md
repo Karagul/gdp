@@ -1,2 +1,2 @@
 # gdp
-Economic indicators of country
+Economic indicators of countries.
